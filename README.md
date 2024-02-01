@@ -1,6 +1,9 @@
 # Pokemon
 
-Instructions:
+# Description:
+ICS4U1 project built in Java emphasizing object-oriented-programming principles. The game is implemented in the console of the IDE, and is interactive with the user.
+
+# Instructions:
 1. Users assign names to player 1, and player 2.
 2. Players add Pokemon to their roster in a turn based manner, until each player has 3 pokemon.
 3. Players will take turns in attacking the opposing pokemon.
